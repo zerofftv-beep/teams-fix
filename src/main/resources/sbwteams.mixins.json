@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.example.sbwteams.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "PlayerNameTagMixin"
+  ],
+  "minVersion": "0.8"
+}
